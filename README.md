@@ -1,1 +1,1 @@
-# .github
+# FragsHQ organization landing page
