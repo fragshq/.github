@@ -1,5 +1,5 @@
 # FragsHQ
-![John Mallard](images/frags.png)
+![John Mallard](images/frags.gif)
 
 Welcome to the home of **Frags** and its ecosystem.
 
