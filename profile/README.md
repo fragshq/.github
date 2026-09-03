@@ -33,4 +33,6 @@ Engineered for precision and focus, Frags is a specialized orchestration system 
 
 * Explore the [Frags Repository](https://github.com/fragshq/frags).
 
+* Have a look at FML, the [Frags Modeling Language](https://github.com/fragshq/fml).
+
 * See example blueprints using the FML language at the [Diaphora Blueprint Marketplace](https://www.diaphora.ai/blueprints)
